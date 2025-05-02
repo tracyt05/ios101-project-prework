@@ -20,6 +20,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Favorite Apps:
+-Instagram: 
+    * easy search button to search up any account or hashtags
+    * different types of duration for a picture you send (keep in chat/ view once/ allow more than once)
+    * the unread notification dot on messages that indicates which conversations are unread clearly
+-Discord: 
+    * different channels for texts or call
+    * implementing robots that assist conversations, such as translator or background music 
+-Google Maps:
+    * buttons to allow reports of different types of incidents
+    * adjusting the time of departure or arrival to check which route or transportation would be the best at an expected time;
+    
+
 
 ## Notes
 
