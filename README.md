@@ -32,6 +32,8 @@ Favorite Apps:
     * buttons to allow reports of different types of incidents
     * adjusting the time of departure or arrival to check which route or transportation would be the best at an expected time;
     
+An app I want to build:
+    An app that can read all the messages, emails, notifications...to analyze your trends and habits, especially with a function that notifies you when your habit is changing, and a list of all the deadlines or work that need to be finished with clear dates and description, just from reading inputs, without having to do it manually.
 
 
 ## Notes
